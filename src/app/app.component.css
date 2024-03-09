@@ -1,0 +1,12 @@
+/* Add your custom CSS here */
+
+/* Example: Make navbar fixed-top and add padding to the body */
+body {
+    padding-top: 70px; /* Adjust based on your navbar height */
+}
+
+@media (max-width: 576px) {
+    body {
+        padding-top: 56px; /* Adjust for smaller screens */
+    }
+}
